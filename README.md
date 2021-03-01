@@ -4,7 +4,7 @@ _por Carlos Solís_
 
 Esta es una breve lista de enlaces a recursos para seguir aprendiendo sobre los temas que examinamos en el curso de creación de sistemas sustentables.
 
-  No olvides sugerir aquí los enlaces que encuentres y te sean de utilidad para compartirlos con el resto de alumnos.  
+No olvides sugerir aquí los enlaces que encuentres y te sean de utilidad para compartirlos con el resto de alumnos.
 
 
 - [Sustainable Software Architecture, Carola Lilienthal](https://www.amazon.com/dp/B07XCRQ6JJ)
